@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: cornflowerblue;
+}
+
+.text {
+    color: white;
+    padding: 16px;
+    text-shadow: black 3px 3px 3px;
+}
+
